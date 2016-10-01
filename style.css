@@ -1,0 +1,18 @@
+img{
+
+	top: 10px;
+	height: 300px;
+	width: 300px;
+	float:right
+	
+}
+
+div{
+	left: 60px;
+ position: relative;
+
+}
+#wrap{
+	font: 	Arial;
+	color: #66686b;
+}
